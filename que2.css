@@ -1,6 +1,6 @@
 section{
     text-align:left;
-    background-color: papayawhip;
+    background-color: pink;
 }
 body{
     border: 2px solid black;
@@ -11,5 +11,26 @@ img{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    
+
+}
+#div4{
+    text-align:left;
+}
+h3{
+    background-color: brown;
+}
+h2{
+    background-color: brown;
+}
+h4{
+    text-align: center;
+}
+button{
+    color: blue;
+    background-color: gray;
+    font-size: large;
+    cursor: pointer;
+}
+p1{
+    word-spacing: 10px;
 }
