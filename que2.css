@@ -7,3 +7,9 @@ body{
     padding: 50px;
     margin: 100px;
 }
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
